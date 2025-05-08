@@ -1,2 +1,12 @@
 # assembly-jump
-A simple doodlejump-esque game made in MIPS Assembly for a Computer Organization course ran through the University of Toronto Scarborough.
+
+My submission for the final project of CSCB58. Besides the required features, I additionally implemented:
+ - Animated sprites
+ - A shifting camera
+ - Randomly generated levels
+ - A win condition and a loss condition
+ - A scoreboard
+ - Shooting enemies
+ - Moving/Bouncing Platforms
+ - 
+The submission video associated with the project can be found at this link[https://youtu.be/N_2T1b_waN8].
