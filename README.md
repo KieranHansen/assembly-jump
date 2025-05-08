@@ -8,5 +8,5 @@ My submission for the final project of CSCB58. Besides the required features, I 
  - A scoreboard
  - Shooting enemies
  - Moving/Bouncing Platforms
- - 
-The submission video associated with the project can be found at this link[https://youtu.be/N_2T1b_waN8].
+
+The submission video associated with the project can be found at this [link](https://youtu.be/N_2T1b_waN8).
