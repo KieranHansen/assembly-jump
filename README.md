@@ -1,6 +1,6 @@
 # assembly-jump
 
-My submission for the final project of CSCB58. Besides the required features, I additionally implemented:
+My submission for the final project of the CSCB58 course ran in 2023. Besides the required features, I additionally implemented:
  - Animated sprites
  - A shifting camera
  - Randomly generated levels
